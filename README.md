@@ -1,8 +1,6 @@
 # Regression And Mixed Effects Modelling
 
-This course will introduce you to regression and linear mixed-effects models (LMMs). It will help to develop your theoretical understanding and practical skills for running such models in R.
-
-A regression is a statistical technique that relates a dependent variable to one or more independent variables. A regression model can show whether changes observed in the dependent variable are associated with changes in one or more of the explanatory variables.
+This course will introduce you to linear mixed-effects models (LMMs). It will help to develop your theoretical understanding and practical skills for running such models in R.
 
 Linear mixed-effects models are powerful and flexible statistical tools that help us understand the world. This is particularly useful in language sciences when our aim is to investigate the influence of one or more predictor factors (e.g., time spent on the Internet per week) on a particular linguistic phenomenon that we are interested in (AKA. an outcome variable; e.g., people’s tendency to use internet slang in face-to-face communication). In these cases, we often need to account for the individual differences among people who take part in the study. Linear mixed models allow us to do this and more!
 
